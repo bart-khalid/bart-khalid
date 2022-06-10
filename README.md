@@ -9,7 +9,7 @@
 
   
 
-- 💻 I'm currently in a full time Data Sience Internship.
+- 💻 I'm currently in a full time Data Science Internship.
 - 🎓 I'm studying Computer Science, computer programming and Mathematics
 - 🌱 I’m currently learning everything 🤣  <br>
 - 🔭 Learning and Developing Machine Learning based projects in Python
