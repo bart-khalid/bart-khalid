@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate with other content creators  <br>
 - 💬 Ask me anything about AI
 - 📫 Feel free to get in touch with me via <a href="mailto:bartyouger@gmail.com"><b>email</b></a>
-- 🌍 Portfolio: https://bert-khalid.live/
+- 🌍 Portfolio: https://bart-khalid.live/
   
   
   </div>
