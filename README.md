@@ -9,7 +9,7 @@
 
   
 
-- 💻 I'm currently a Data scientist @ALTEN MAROC.
+- 💻 I'm currently a Data & AI Engineer @CONFIDENTIAL.
 - 🎓 I'm studying Computer Science, computer programming and Mathematics
 - 🌱 I’m currently learning everything 🤣  <br>
 - 🔭 Learning and Developing Machine Learning based projects in Python
@@ -53,6 +53,6 @@
 
 
 <div  align="right">
-    <img align="center" src="https://gpvc.arturio.dev/bart-khalid" alt="bart-khalid's vitors">
+    <img align="center" src="https://komarev.com/ghpvc/?username=bart-khalid" alt="bart-khalid's vitors">
   </div>
  
