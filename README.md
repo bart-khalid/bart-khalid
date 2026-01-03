@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💻 I'm currently a Data & AI Engineer.<br>- 🎓 I'm studying Computer Science, computer programming and Mathematics<br>- 🌱 I’m currently learning everything 🤣  <br><br>- 🔭 Learning and Developing Machine Learning based projects in Python<br>- 🌱 Enthusiast in Artificial Intelligence<br>- ⚡ Fun fact: I am passionate about computer science <br><br>- 👯 I’m looking to collaborate with other content creators  <br><br>- 💬 Ask me anything about AI
+<br>- 💻 I'm currently a Data & AI Engineer.<br>- 🎓 I'm studying Computer Science, computer programming and Mathematics<br>- 🌱 I’m currently learning everything 🤣  <br><br>- 🔭 Learning and Developing Machine Learning based projects in Python<br>- 🌱 Enthusiast in Artificial Intelligence<br>- ⚡ Fun fact: I am passionate about computer science <br><br>- 👯 I’m looking to collaborate with other content creators  <br><br>- 💬 Ask me anything about AI
 
 
 ## 🌐 Socials:
